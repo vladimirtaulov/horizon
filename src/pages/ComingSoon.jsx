@@ -135,7 +135,7 @@ export default function ComingSoon() {
         {/* center: lead capture (View B) */}
         <div className="relative z-10 mx-auto w-full max-w-2xl py-10">
           <p className="mb-5 text-center text-xs uppercase tracking-[0.3em] text-[#121212]/50">
-            The next paradigm is approaching
+            The next paradigm is approaching!
           </p>
           <form onSubmit={onSubmit} className="group">
             <div
